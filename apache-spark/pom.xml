@@ -31,7 +31,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <org.apache.spark.spark-core.version>2.2.0</org.apache.spark.spark-core.version>
+        <org.apache.spark.spark-core.version>2.2.2</org.apache.spark.spark-core.version>
     </properties>
 
 </project>
